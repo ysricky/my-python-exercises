@@ -1,7 +1,7 @@
 # my-python-exercises
 
 <p align="center">
-![Python](images/pythonemblem.png)
+<img src="images/pythonemblem.png">
 </p>
 
 Hello pythonista...
