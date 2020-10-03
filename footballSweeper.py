@@ -10,7 +10,7 @@ def show_field(pos):
 	print('[  ' + pos[1] + '  ]' + '[  '+ pos[2] + '  ]' + '[  ' + pos[3] + '  ]')
 	print('-------' + '[  ' + pos[0] + '  ]' + '-------')
 
-pos = [' ','D','1','2',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']
+pos = [' ','D','1','2','1','2',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
 goal_one = 10
 goal_two = 0
@@ -27,7 +27,7 @@ while True:
 		goal_two += 1
 		print('Player 2 GOAL!')
 		print(f'SCORE: {goal_one} VS {goal_two}')
-	elif goal_one < goal_two:
+	elif goal_one == goal_two:
 		print(f'SCORE: {goal_one} VS {goal_two}')
 		break
 
