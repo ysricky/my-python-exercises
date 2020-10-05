@@ -1,4 +1,5 @@
 import random
+import os
 
 #field
 def show_field(pos):
@@ -18,7 +19,7 @@ goal_one = 0
 goal_two = 0
 
 while True:
-
+	os.system('clear')
 	random.shuffle(pos)
 	show_field(pos)
 	if pos[16] == 'A1':
