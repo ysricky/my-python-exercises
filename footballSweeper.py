@@ -30,7 +30,7 @@ while True:
 		goal_two += 1
 		print('Player 2 GOAL!')
 		print(f'SCORE: {goal_one} VS {goal_two}')
-	elif pos[11] == 'R ':
+	elif pos[0] == 'A1' and pos[22] == 'A2':
 		print('FULL TIME!')
 		print(f'SCORE: {goal_one} VS {goal_two}')
 		break
