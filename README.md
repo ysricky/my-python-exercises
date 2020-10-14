@@ -4,5 +4,8 @@
 <img src="images/pythonemblem.png">
 </p>
 
-Hello pythonista...
-All of my python exercises from Udemy "2020 Complete Python Bootcamp: From Zero to Hero in Python (by: Jose Portilla)" stored here :) :)
+Hello, this is my repository of my machine learning / data science journey.
+All of my exercises, scripts, notebooks, all of my learning resources stored here...
+
+# My Machine Learning Roadmap (constantly updating)
+- [ ] Dicoding 
