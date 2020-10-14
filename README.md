@@ -1,4 +1,4 @@
-# my-python-exercises
+# my-machinelearning-journey
 
 <p align="center">
 <img src="images/pythonemblem.png">
